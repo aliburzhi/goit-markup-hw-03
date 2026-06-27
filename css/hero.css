@@ -1,0 +1,16 @@
+.hero-section {
+    background-color: #2E2F42;
+}
+
+.hero-button {
+    color: #fff;
+    background-color: var(--primary-band);
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+
+.title {
+    color: #fff;
+    text-align: center;
+}
