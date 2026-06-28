@@ -1,5 +1,13 @@
 .hero-section {
     background-color: #2E2F42;
+    padding: 188px;
+}
+
+.hero-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .hero-button {
@@ -8,9 +16,11 @@
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    padding: 16px 32px;
+    border-radius: 4px;
+    border: none;
 }
 
 .title {
     color: #fff;
-    text-align: center;
 }

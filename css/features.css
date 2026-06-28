@@ -1,3 +1,13 @@
+.features-section {
+    padding: 120px;
+}
+
+
+.features-list {
+    display: flex;
+    gap: 24px;
+}
+
 .features-subtitle {
     color: #2E2F42;
 }
