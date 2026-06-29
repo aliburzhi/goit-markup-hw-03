@@ -1,6 +1,6 @@
 .team-section {
     background-color: #F4F4FD;
-    padding: 120px;
+    padding: 120px 0;
 
 }
 
@@ -24,6 +24,7 @@
     justify-content: center;
     width: calc((100% - 3 * 24px) / 4);
     background-color: #fff;
+    border-radius: 0 0 4px 4px;
 }
 
 .team-card-content {

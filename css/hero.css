@@ -1,6 +1,6 @@
 .hero-section {
     background-color: #2E2F42;
-    padding: 188px;
+    padding: 188px 0;
 }
 
 .hero-container {
@@ -8,6 +8,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
 }
 
 .hero-button {
@@ -24,4 +25,6 @@
 .title {
     color: #fff;
     margin-bottom: 48px;
+    max-width: 496px;
+    text-align: center
 }

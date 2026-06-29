@@ -1,14 +1,15 @@
+.header-section {
+    border-bottom: 1px solid #E7E9FC;
+}
+
 .header-container {
     display: flex;
     align-items: center;
-    justify-content: space-around;
-    max-width: 100%;
-    border-bottom: 1px solid #E7E9FC;
+    justify-content: space-between;
 }
 .header-logo-nav-container {
     display: flex;
     align-items: center;
-    justify-content: space-between;
     gap: 76px;
 }
 .header-logo-link {
@@ -24,7 +25,6 @@
 .nav-list {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .header-logo-link span {
@@ -32,6 +32,8 @@
 }
 
 .nav-link {
+    display: block;
+    padding: 24px 0;
     font-weight: 500;
     color: #2E2F42;
 }
